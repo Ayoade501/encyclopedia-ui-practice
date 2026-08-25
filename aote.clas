@@ -1,0 +1,8 @@
+- An absolute positioned element is positioned relative to its nearest positioned ancestor. if no positioned ancestor
+exist, it is positioned relative to the viewport (browser window)
+
+POSITION:STATIC is the default postion of HTML elements. (it doesnt move)
+
+POSTION RELATIVE stay in its original postion, but can move it using top, left bottom, right. NB. it always move 
+relatively to its original position.
+
