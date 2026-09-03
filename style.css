@@ -8,9 +8,6 @@ body {
     background: #101418;
     margin-top: 50px;
 }
-
-
-
 .main {
     text-align: center;
 }
@@ -174,6 +171,7 @@ body {
     color: #eeeeef;
     width: 40px;    
 }
+
 .btn {
     background-color: #3366cc;
     border: 1px solid #3366cc;
@@ -181,4 +179,8 @@ body {
     padding: 0 20px;
     cursor: pointer;
     color: white;
+}
+.notice {
+    position: fixed;
+    bottom: 0;
 }
